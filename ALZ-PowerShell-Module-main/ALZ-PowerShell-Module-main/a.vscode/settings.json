@@ -1,0 +1,5 @@
+{
+    "files.trimTrailingWhitespace": true,
+    "powershell.scriptAnalysis.settingsPath": "PSScriptAnalyzerSettings.psd1",
+    "powershell.codeFormatting.preset":"OTBS"
+}
